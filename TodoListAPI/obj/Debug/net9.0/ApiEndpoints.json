@@ -1,0 +1,285 @@
+[
+  {
+    "ContainingType": "TodoListAPI.Presentation.Controller.AuthenticationController",
+    "Method": "Login",
+    "RelativePath": "api/Authentication/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Shared.DataTransferObjects.UserLoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TodoListAPI.Presentation.Controller.AuthenticationController",
+    "Method": "Register",
+    "RelativePath": "api/Authentication/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Username",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Password",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TodoListAPI.Presentation.Controller.AuthenticationController",
+    "Method": "SendCode",
+    "RelativePath": "api/Authentication/SendCode",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Shared.DataTransferObjects.ForgetPasswordDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TodoListAPI.Presentation.Controller.AuthenticationController",
+    "Method": "VerifyResetCode",
+    "RelativePath": "api/Authentication/VerifyResetCode",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Shared.DataTransferObjects.VerifyResetCodeDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TodoListAPI.Presentation.Controller.StaticController",
+    "Method": "GetAllStatuses",
+    "RelativePath": "api/Static/GetAllStatuses",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TodoListAPI.Presentation.Controller.StaticController",
+    "Method": "GetAllTaskCategories",
+    "RelativePath": "api/Static/GetAllTaskCategories",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TodoListAPI.Presentation.Controller.StaticController",
+    "Method": "GetAllTaskPriorities",
+    "RelativePath": "api/Static/GetAllTaskPriorities",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TodoListAPI.Presentation.Controller.TaskController",
+    "Method": "CreateTask",
+    "RelativePath": "api/Task/CreateTask",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createTaskDto",
+        "Type": "Shared.DataTransferObjects.CreateTaskDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TodoListAPI.Presentation.Controller.TaskController",
+    "Method": "DeleteTask",
+    "RelativePath": "api/Task/DeleteTask",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "taskId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TodoListAPI.Presentation.Controller.TaskController",
+    "Method": "GetAllTasks",
+    "RelativePath": "api/Task/GetAllTasks",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TodoListAPI.Presentation.Controller.TaskController",
+    "Method": "GetCompletedTasks",
+    "RelativePath": "api/Task/GetCompletedTasks",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TodoListAPI.Presentation.Controller.TaskController",
+    "Method": "GetPendingTasks",
+    "RelativePath": "api/Task/GetPendingTasks",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TodoListAPI.Presentation.Controller.TaskController",
+    "Method": "GetTaskById",
+    "RelativePath": "api/Task/GetTaskById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "taskId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TodoListAPI.Presentation.Controller.TaskController",
+    "Method": "GetTasksByFilter",
+    "RelativePath": "api/Task/GetTasksByFilter",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "statusId",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "categoryId",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "priorityId",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TodoListAPI.Presentation.Controller.TaskController",
+    "Method": "UpdateTask",
+    "RelativePath": "api/Task/UpdateTask",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "taskId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "updateTaskDto",
+        "Type": "Shared.DataTransferObjects.UpdateTaskDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TodoListAPI.Presentation.Controller.TaskController",
+    "Method": "UpdateTaskStatus",
+    "RelativePath": "api/Task/UpdateTaskStatus",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "taskId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "statusId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

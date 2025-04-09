@@ -1,0 +1,11 @@
+G:\Learn_practise\Signalr\TodoListAPI\LoggerService\bin\Debug\net9.0\LoggerService.deps.json
+G:\Learn_practise\Signalr\TodoListAPI\LoggerService\bin\Debug\net9.0\LoggerService.dll
+G:\Learn_practise\Signalr\TodoListAPI\LoggerService\bin\Debug\net9.0\LoggerService.pdb
+G:\Learn_practise\Signalr\TodoListAPI\LoggerService\obj\Debug\net9.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+G:\Learn_practise\Signalr\TodoListAPI\LoggerService\obj\Debug\net9.0\LoggerService.AssemblyInfoInputs.cache
+G:\Learn_practise\Signalr\TodoListAPI\LoggerService\obj\Debug\net9.0\LoggerService.AssemblyInfo.cs
+G:\Learn_practise\Signalr\TodoListAPI\LoggerService\obj\Debug\net9.0\LoggerService.csproj.CoreCompileInputs.cache
+G:\Learn_practise\Signalr\TodoListAPI\LoggerService\obj\Debug\net9.0\LoggerService.dll
+G:\Learn_practise\Signalr\TodoListAPI\LoggerService\obj\Debug\net9.0\refint\LoggerService.dll
+G:\Learn_practise\Signalr\TodoListAPI\LoggerService\obj\Debug\net9.0\LoggerService.pdb
+G:\Learn_practise\Signalr\TodoListAPI\LoggerService\obj\Debug\net9.0\ref\LoggerService.dll

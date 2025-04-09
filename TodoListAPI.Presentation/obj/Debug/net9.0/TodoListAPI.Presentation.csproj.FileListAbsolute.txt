@@ -1,0 +1,17 @@
+G:\Learn_practise\Signalr\TodoListAPI\TodoListAPI.Presentation\bin\Debug\net9.0\TodoListAPI.Presentation.deps.json
+G:\Learn_practise\Signalr\TodoListAPI\TodoListAPI.Presentation\bin\Debug\net9.0\TodoListAPI.Presentation.dll
+G:\Learn_practise\Signalr\TodoListAPI\TodoListAPI.Presentation\bin\Debug\net9.0\TodoListAPI.Presentation.pdb
+G:\Learn_practise\Signalr\TodoListAPI\TodoListAPI.Presentation\obj\Debug\net9.0\TodoListAPI.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+G:\Learn_practise\Signalr\TodoListAPI\TodoListAPI.Presentation\obj\Debug\net9.0\TodoListAPI.Presentation.AssemblyInfoInputs.cache
+G:\Learn_practise\Signalr\TodoListAPI\TodoListAPI.Presentation\obj\Debug\net9.0\TodoListAPI.Presentation.AssemblyInfo.cs
+G:\Learn_practise\Signalr\TodoListAPI\TodoListAPI.Presentation\obj\Debug\net9.0\TodoListAPI.Presentation.csproj.CoreCompileInputs.cache
+G:\Learn_practise\Signalr\TodoListAPI\TodoListAPI.Presentation\obj\Debug\net9.0\TodoListAPI.Presentation.dll
+G:\Learn_practise\Signalr\TodoListAPI\TodoListAPI.Presentation\obj\Debug\net9.0\refint\TodoListAPI.Presentation.dll
+G:\Learn_practise\Signalr\TodoListAPI\TodoListAPI.Presentation\obj\Debug\net9.0\TodoListAPI.Presentation.pdb
+G:\Learn_practise\Signalr\TodoListAPI\TodoListAPI.Presentation\obj\Debug\net9.0\ref\TodoListAPI.Presentation.dll
+G:\Learn_practise\Signalr\TodoListAPI\TodoListAPI.Presentation\bin\Debug\net9.0\Service.Contracts.dll
+G:\Learn_practise\Signalr\TodoListAPI\TodoListAPI.Presentation\bin\Debug\net9.0\Service.Contracts.pdb
+G:\Learn_practise\Signalr\TodoListAPI\TodoListAPI.Presentation\obj\Debug\net9.0\TodoListAPI.Presentation.csproj.AssemblyReference.cache
+G:\Learn_practise\Signalr\TodoListAPI\TodoListAPI.Presentation\obj\Debug\net9.0\TodoList.CD578AC1.Up2Date
+G:\Learn_practise\Signalr\TodoListAPI\TodoListAPI.Presentation\bin\Debug\net9.0\Shared.dll
+G:\Learn_practise\Signalr\TodoListAPI\TodoListAPI.Presentation\bin\Debug\net9.0\Shared.pdb

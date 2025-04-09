@@ -1,0 +1,15 @@
+G:\Learn_practise\Signalr\TodoListAPI\Service.Contracts\bin\Release\net9.0\Service.Contracts.deps.json
+G:\Learn_practise\Signalr\TodoListAPI\Service.Contracts\bin\Release\net9.0\Service.Contracts.dll
+G:\Learn_practise\Signalr\TodoListAPI\Service.Contracts\bin\Release\net9.0\Service.Contracts.pdb
+G:\Learn_practise\Signalr\TodoListAPI\Service.Contracts\bin\Release\net9.0\Shared.dll
+G:\Learn_practise\Signalr\TodoListAPI\Service.Contracts\bin\Release\net9.0\Shared.pdb
+G:\Learn_practise\Signalr\TodoListAPI\Service.Contracts\obj\Release\net9.0\Service.Contracts.csproj.AssemblyReference.cache
+G:\Learn_practise\Signalr\TodoListAPI\Service.Contracts\obj\Release\net9.0\Service.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+G:\Learn_practise\Signalr\TodoListAPI\Service.Contracts\obj\Release\net9.0\Service.Contracts.AssemblyInfoInputs.cache
+G:\Learn_practise\Signalr\TodoListAPI\Service.Contracts\obj\Release\net9.0\Service.Contracts.AssemblyInfo.cs
+G:\Learn_practise\Signalr\TodoListAPI\Service.Contracts\obj\Release\net9.0\Service.Contracts.csproj.CoreCompileInputs.cache
+G:\Learn_practise\Signalr\TodoListAPI\Service.Contracts\obj\Release\net9.0\Service..DEC3DE55.Up2Date
+G:\Learn_practise\Signalr\TodoListAPI\Service.Contracts\obj\Release\net9.0\Service.Contracts.dll
+G:\Learn_practise\Signalr\TodoListAPI\Service.Contracts\obj\Release\net9.0\refint\Service.Contracts.dll
+G:\Learn_practise\Signalr\TodoListAPI\Service.Contracts\obj\Release\net9.0\Service.Contracts.pdb
+G:\Learn_practise\Signalr\TodoListAPI\Service.Contracts\obj\Release\net9.0\ref\Service.Contracts.dll

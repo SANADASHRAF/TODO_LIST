@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\top\Desktop\TODO LIST</_PublishTargetUrl>
+    <History>True|2025-04-09T23:27:03.1625547Z||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="sqlConnection">
+      <Value>Server=SQL1003.site4now.net%3b User ID=db_ab7754_job201092001_admin%3bPassword=job201092001%3b Database=db_ab7754_job201092001%3bTrusted_Connection=true%3bIntegrated Security=false%3bEncrypt=False%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="Repository.RepositoryContext">
+      <Value>Server=SQL1003.site4now.net%3b User ID=db_ab7754_job201092001_admin%3bPassword=job201092001%3b Database=db_ab7754_job201092001%3bTrusted_Connection=true%3bIntegrated Security=false%3bEncrypt=False%3b</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
